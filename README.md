@@ -74,12 +74,3 @@ $ python flightview.py --db test_db --coll flights
 ```
 
 
-## Screen shots
-### example flight phase identification
-![flight phases](data/images/phase.png?raw=true)
-
-### example fuzzy logic membership functions
-![fuzzy logic membership](data/images/membership.png?raw=true)
-
-### example flight viewer
-![flight viewer](data/images/flightview.png?raw=true)
